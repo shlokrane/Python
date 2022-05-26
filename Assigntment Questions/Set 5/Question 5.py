@@ -1,6 +1,5 @@
 list_of_marks=(12,18,25,24,2,5,18,20,20,21)
 def find_more_than_average():
-    global list_of_marks
     marks=0
     count=0
     for x in list_of_marks:
